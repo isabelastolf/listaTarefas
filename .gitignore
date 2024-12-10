@@ -1,0 +1,3 @@
+./src/img/*.svg
+./database/.env
+*.jpg
